@@ -1,0 +1,14 @@
+{
+  "name": "automation_internshala",
+  "version": "1.0.0",
+  "description": "A project to automate job applications on Internshala.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.8.2"
+  }
+}
